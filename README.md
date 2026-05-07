@@ -97,7 +97,7 @@ I’ve built systems serving **50k+ monthly requests**, optimized **100GB+ produ
   <td valign="top">
 
 ### 📍 SocialUp — Meetup-Style Social Platform
-[GitHub](https://github.com/divyamsaraf/socialup) [Live Demo](https://socialup-live.vercel.app) 
+[GitHub](https://github.com/divyamsaraf/socialup) | [Live Demo](https://socialup-live.vercel.app) 
 
 **What it is:** Full-stack platform for creating and joining meetups.  
 **Problem it solves:** Enables scalable community engagement with real-time interactions.  
