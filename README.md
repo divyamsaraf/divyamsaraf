@@ -40,7 +40,7 @@ I’ve built systems serving **50k+ monthly requests**, optimized **100GB+ produ
   <td valign="top">
 
 ### 🥗 IngreSure — AI-Powered Dietary Safety
-[GitHub](https://github.com/divyamsaraf/ingresure) 
+[GitHub](https://github.com/divyamsaraf/ingresure) | [Live Demo](https://ingresure.vercel.app/) 
 
 **What it is:** AI system verifying dietary compliance with deterministic rules + LLM explanations.  
 **Problem it solves:** Reduces errors and provides explainable, safe dietary decisions.  
@@ -97,7 +97,7 @@ I’ve built systems serving **50k+ monthly requests**, optimized **100GB+ produ
   <td valign="top">
 
 ### 📍 SocialUp — Meetup-Style Social Platform
-[GitHub](https://github.com/divyamsaraf/socialup) 
+[GitHub](https://github.com/divyamsaraf/socialup) [Live Demo](https://socialup-live.vercel.app) 
 
 **What it is:** Full-stack platform for creating and joining meetups.  
 **Problem it solves:** Enables scalable community engagement with real-time interactions.  
